@@ -5,7 +5,7 @@ const subscriberSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  subsciberToChannel: {
+  subscriberToChannel: {
     type: String,
     required: true
   },
